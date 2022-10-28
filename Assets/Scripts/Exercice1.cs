@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-public class Exercise1 : MonoBehaviour
+public class Exercice1 : MonoBehaviour
 {
     private int minNumber = 0;
     private int maxNumber = 50;
